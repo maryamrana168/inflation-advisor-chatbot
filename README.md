@@ -1,4 +1,5 @@
 📉 Inflation Survival Advisor Chatbot
+
 🧠 Project Overview
 
 The Inflation Survival Advisor Chatbot is an intelligent AI-powered assistant designed to help users manage their finances during periods of high inflation.
